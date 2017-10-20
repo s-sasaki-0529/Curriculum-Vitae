@@ -11,6 +11,8 @@
 |----|----|
 |Name|笹木 信吾|
 |Birth|1992/05/29|
+|Family|既婚・子なし|
+|Location|東京都 墨田区|
 |Mail|shingo.sasaki.0529@gmail.com|
 |Github|[Sa2Knight](https://github.com/Sa2Knight)|
 |Twitter|[@HousouP](https://twitter.com/HousouP)|
