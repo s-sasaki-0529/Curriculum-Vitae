@@ -21,6 +21,16 @@
 |Qiita|[@Sa2Knight](https://qiita.com/Sa2Knight)|
 |booklog|[sa2knight](http://booklog.jp/users/sa2knight)
 
+## 趣味
+
+- カラオケ
+  - 年間1000曲以上歌う
+  - 手前味噌でほぼ身内用に作った下記記録システムで全曲記録してる
+  - [パンダリンのカラオケランド](https://tk2-255-37407.vs.sakura.ne.jp/user/userpage/sa2knight)
+- デグー飼育
+  - ややマイナー気味な小動物"デグー"を12匹(2017/10現在)飼ってる
+  - 毎日写真を撮っては[Twitter](https://twitter.com/HousouP)にあげてる
+
 ## 転職について
 
 **基本的に現在所属している会社で多くの面で満足しているため、積極的な転職活動を行う予定はありません。**
