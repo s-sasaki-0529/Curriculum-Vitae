@@ -52,7 +52,7 @@ https://medium.com/@shingo.sasaki
 - カラオケ
   - 年間1200曲ぐらい歌う(2年連続)
 - デグー飼育
-  - よく写真を撮っては[Twitter](https://twitter.com/HousouP)にあげてる
+  - よく写真を撮っては[Twitter](https://twitter.com/HousouP)にあげてる
 
 ## 関連の強い技術ワード
 
