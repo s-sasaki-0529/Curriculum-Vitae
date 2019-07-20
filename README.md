@@ -41,18 +41,18 @@ https://qiita.com/Sa2Knight
 
 公開してるのはまだ１個。もっと場数を踏みたいです。
 
+### 技術ブログ
+
+https://medium.com/@shingo.sasaki
+
+現在は所属会社の開発ブログに投稿中
+
 ## 趣味
 
 - カラオケ
   - 年間1200曲ぐらい歌う(2年連続)
 - デグー飼育
   - よく写真を撮っては[Twitter](https://twitter.com/HousouP)にあげてる
-
-## 技術ブログ
-
-https://medium.com/@shingo.sasaki
-
-現在は所属会社の開発ブログに投稿中
 
 ## 関連の強い技術ワード
 
