@@ -47,6 +47,12 @@ https://medium.com/@shingo.sasaki
 
 現在は所属会社の開発ブログに投稿中
 
+### 読書ブログ
+
+https://shingo-sasaki-0529.hatenablog.com/
+
+たまに読んだ本のアウトプットする
+
 ## 趣味
 
 - カラオケ
