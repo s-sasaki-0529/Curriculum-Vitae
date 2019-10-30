@@ -23,23 +23,10 @@
 
 ## アウトプット
 
-### Github
-
-https://github.com/Sa2Knight
-
-主に個人利用を目的としたツールや、学習用のリポジトリのみで、ライブラリなど、OSSとして展開するものは特になし
-
-### Qiita
-
-https://qiita.com/Sa2Knight
-
-主に個人の学びやトラブルシューティング、活動の振り返りをまとめた単発記事を投稿
-
 ### 登壇歴
 
+- [TeachmeBizを支えるフロントエンドのアーキテクチャと品質担保](https://www.slideshare.net/shingosasaki3/teachmebiz-188542240) (Vue.jsアーキテクチャリング勉強会)
 - [レガシーすぎるRailsアプリを10倍高速化した組織的なカイゼン活動](https://www.slideshare.net/shingosasaki3/rails10-135067544) (表参道.rb #44 〜Ruby/Railsパフォーマンス〜)
-
-公開してるのはまだ１個。もっと場数を踏みたいです。
 
 ### 技術ブログ
 
@@ -47,11 +34,11 @@ https://medium.com/@shingo.sasaki
 
 現在は所属会社の開発ブログに投稿中
 
-### 読書ブログ
+### Qiita
 
-https://shingo-sasaki-0529.hatenablog.com/
+https://qiita.com/Sa2Knight
 
-たまに読んだ本のアウトプットする
+主に個人の学びやトラブルシューティング、活動の振り返りをまとめた単発記事を投稿
 
 ## 趣味
 
@@ -59,20 +46,6 @@ https://shingo-sasaki-0529.hatenablog.com/
   - 年間1000曲ぐらい歌う(ヒトカラ多め)
 - デグー飼育
   - よく写真を撮っては[Twitter](https://twitter.com/HousouP)にあげてる
-
-## 現在の業務の関連技術ワード
-
-- Mac
-- iTerm2
-- vim
-- Ruby / Rails
-- JavaScript / Vue.js
-- storybook
-- circleci
-- AWS
-- B2B
-- SaaS
-- スクラム
 
 ## 労働環境に関する主な希望
 
