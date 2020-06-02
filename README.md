@@ -15,7 +15,7 @@
 |Location|東京都 墨田区|
 |Education|地方駅弁の情報系学部|
 |Mail|shingo.sasaki.0529@gmail.com|
-|Twitter|[@HousouP](https://twitter.com/HousouP)|
+|Twitter|[@HousouP](https://twitter.com/s_sasaki_0529)|
 
 ## 転職活用ステータス
 
@@ -23,7 +23,7 @@
 
 ## アウトプット
 
-### 登壇歴
+### 登壇資料
 
 - [TeachmeBizを支えるフロントエンドのアーキテクチャと品質担保](https://www.slideshare.net/shingosasaki3/teachmebiz-188542240) (Vue.jsアーキテクチャリング勉強会)
 - [レガシーすぎるRailsアプリを10倍高速化した組織的なカイゼン活動](https://www.slideshare.net/shingosasaki3/rails10-135067544) (表参道.rb #44 〜Ruby/Railsパフォーマンス〜)
@@ -43,11 +43,8 @@ https://qiita.com/Sa2Knight
 ## 趣味
 
 - カラオケ
-  - 年間1000曲ぐらい歌う(ヒトカラ多め)
 - デグー飼育
-  - よく写真を撮っては[Twitter](https://twitter.com/HousouP)にあげてる
 - リングフィットアドベンチャー
-  - 称号コンプを真面目に目指す程度のニワカガチ勢
 
 ## 労働環境に関する主な希望
 
@@ -66,9 +63,10 @@ https://qiita.com/Sa2Knight
   - フレックス制度 (コアタイム短め)
   - リモートワーク
 - 自分の慣れた開発環境
-  - MacBook
+  - ハイスペックマシン(Mac/Linux)
   - エディタ選択の自由(vscode or vim)
   - モニタ複数枚
+  - メカニカルキーボード
 - 評価基準が透明
   - 期待しているもの、期待されてるものが明確
   - 目標設定に依存しないこと
@@ -93,25 +91,35 @@ IPA資格は全て学生時代に取ったきり。社会に出てからは、�
 |日本語|ネイティブだけど資格は特になし|
 |英語|TOEIC L&R 775点(2019/11)|
 
+英語は技術系のドキュメントならまぁ原文でも活用できる程度
+
 
 ## プログラミング言語/フレームワーク
 
-業務で一定期間以上使ったモノのみ列挙
+それなりに出来る
 
-- Javascript
-  - React
-  - Vue
-- Ruby
-  - Rails
-  - Sinatra
-- Python
-  - Bottle
-- Perl
-- PHP
-  - Laravel
-  - Wordpress
-- Objective-C
+- Rails(Ruby)
+- Vue(Javascript)
+
+過去にやってたからまぁできる
+
+- Laravel(PHP)
+- Sinatra(Ruby)
+- React(Javascript)
+- jQuery(Javascript)
+
+覚えてないけどやったことはある
+
+- Bottole(Python)
+- Wordpress(PHP)
 - Swift
+- Objective-C
+- Perl
+
+趣味でだけ
+
+- TypeScript
+- Go
 
 ## 実務経歴(新しい順)
 
@@ -122,45 +130,38 @@ IPA資格は全て学生時代に取ったきり。社会に出てからは、�
 - よりモダンでレベルの高い開発経験を得るために転職
 - BtoB SaaSの開発保守運用
 - 主にRails/Vueの構成で、概ねモダンな開発スタイルを採用している
-  - CI/CD (circleci)
-  - コードレビュー (Github/sider)
-  - ペアプロ/モブプロ
-  - スクラム開発
 
 #### プロジェクト
 
-- UIリニューアルにおけるAPI実装
-  - 既に稼働中のWebサービスにおける、フルリニューアルプロジェクト
-  - 約1年間プロジェクトに従事
-  - Railsによる新規APIの実装
-  - rspecによる単体テスト、リクエストテストの作成
-  - apiblueprint/aglioによるAPIドキュメントの作成
-- ワークフローの機能強化
-  - ユーザのワークフローに関わる大型機能開発の指揮
-  - 初めてのスクラム開発の採用(スクラムマスターではない)
-  - UIリニューアルはサーバサイド(Rails)だけだったが、ここからフロントエンド(Vue)も書くように
-- 検索機能強化
-  - 既存の検索機能を強化して、より詳細に目的のリソースにたどり着けるようにする仕組みの開発
-  - Elasticsearchによる検索の改善
-    - インデックスの再定義の検討
-    - ダウンタイムなしでのインデックスの張替え
-    - 効率の良いクエリの検証、実装
-  - レスポンシブなVueコンポーネントの実装
-  - Vueコンポーネントの単体テストの導入(vue-test-util)
-- 集計機能強化
+- スクラム開発経験(スクラムマスターではない)
+- RailsによるRESTっぽい新規APIの設計、実装
+    - rspecによる単体テスト、リクエストテストの作成
+    - apiblueprint/aglioによるAPIドキュメントの作成
+    - Elasticsearchによる検索最適化
+      - インデックス再定義の検討、ダウンタイム無しでのインデックス張替え
+      - 効率の良い検索クエリの検討、実装
+- VueJSによるフロントエンドの設計、実装
+  - storybookによるUIコンポーネントのカタログ化
+  - vue-test-utilによるVueコンポーネントの単体テストの提案、実装
+- 各種AWSを活用した機能開発(インフラ構築ではない)
   - Amazon Redshift上にあるログを元に集計をユーザに提供する機能の開発
   - AWS Redshift/S3/Auroraを活用したサマリーの生成周りの設計、実装(補助)
   - terraformによるAWSリソースのコード化
-- 開発部の生産性向上のための仕組みづくり
-  - CircleciによるCIの継続的改善活動
-  - storybook駆動開発の促進
-  - モジュールバージョンアップの自動化
-  - Slackコマンドによる開発プロセスの自動化促進
-- E2Eテスト基盤構築、テスト実装
-  - Capybara/Rspec による、フロントエンドからサーバサイドを横断したE2Eテストの基盤構築
-- フロントエンドのビルド基盤の再構築
-  - Node8.x系から12.xへのアップグレードと各種パッケージの最新化
-  - パッケージ最新化に伴う、ビルド基盤(babel,webpack)の構成周りの最適化
+- CI/CDの管理
+  - CircleCIによるCIの継続的改善活動
+  - ステージング環境への任意のブランチの自動デプロイの仕組みの実装
+  - Storybookとreg-suitを用いたUIのスナップショットテストの提案、実装、運用
+  - CapybaraによるE2Eテストの提案、設計、実装、運用
+  - Slackコマンドによる開発プロセスの自動化促進(テスト実行、ステージングデプロイ)
+  - 他、CIの設定構成の管理全般
+- ライブラリバージョンの管理と積極的な改善
+  - 自動バージョンアップの自動化(gem/node_modules)
+  - Webpack3からWebpack4へのアップグレード
+  - レガシー化したフロントエンドビルド環境のアップグレード
+    - node 8.x → 12.x
+    - Webpack 3 → 4
+    - vue-loader 14 → 15
+    - ...etc
 
 ### 2社目 受託開発及びSESの会社 (2016/10 ~ 2018/07)
 
