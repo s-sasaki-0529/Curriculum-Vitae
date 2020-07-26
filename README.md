@@ -28,11 +28,10 @@
 - [TeachmeBizを支えるフロントエンドのアーキテクチャと品質担保](https://www.slideshare.net/shingosasaki3/teachmebiz-188542240) (Vue.jsアーキテクチャリング勉強会)
 - [レガシーすぎるRailsアプリを10倍高速化した組織的なカイゼン活動](https://www.slideshare.net/shingosasaki3/rails10-135067544) (表参道.rb #44 〜Ruby/Railsパフォーマンス〜)
 
-### 技術ブログ
+### ブログ
 
-https://medium.com/@shingo.sasaki
-
-現在は所属会社の開発ブログに投稿中
+- [個人ブログ](https://shingo-sasaki-0529.hatenablog.com/)
+- [所属会社の開発ブログ](https://medium.com/@shingo.sasaki) (リンク先は私が書いた記事リスト)
 
 ### Qiita
 
