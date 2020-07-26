@@ -80,33 +80,22 @@ IPA資格は全て学生時代に取ったきり。社会に出てからは、�
 
 英語は技術系のドキュメントならまぁ原文でも活用できる程度
 
-
 ## プログラミング言語/フレームワーク
 
-それなりに出来る
-
-- Rails(Ruby)
-- Vue(Javascript)
-
-過去にやってたからまぁできる
-
-- Laravel(PHP)
-- Sinatra(Ruby)
-- React(Javascript)
-- jQuery(Javascript)
-
-覚えてないけどやったことはある
-
-- Bottole(Python)
-- Wordpress(PHP)
-- Swift
-- Objective-C
-- Perl
-
-趣味でだけ
-
-- TypeScript
-- Go
+|言語/フレームワーク|経験レベル|
+|----|----|
+|Rails(Ruby)|設計から実装までチーム引っ張れる|
+|Vue(js)|設計から実装までチーム引っ張れる|
+|React(js)|実務で軽量アプリ開発に使ったことがある程度|
+|jQuery(js)|実務でそれなりに使ってた|
+|Laravel(PHP)|過去に設計から実装までやったことあるので思い出せば使える|
+|Sinatra(Ruby)|実務で簡易的なAPIサーバ作った|
+|Bottole(Python)|実務で簡易的なAPIサーバ作った|
+|Wordpress(PHP)|実務でWebアプリ用のテンプレートを仕様を元に実装したレベル|
+|Swift3|実務で簡易的なカメラと、写真共有アプリを実装した|
+|Perl|新卒入社した会社でガッツリ使ってたけど何も覚えてない|
+|TypeScript|趣味でちょっと|
+|Go|趣味でちょっと|
 
 ## 実務経歴(新しい順)
 
