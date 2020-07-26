@@ -31,13 +31,8 @@
 ### ブログ
 
 - [個人ブログ](https://shingo-sasaki-0529.hatenablog.com/)
+- [Qiita](https://qiita.com/Sa2Knight)
 - [所属会社の開発ブログ](https://medium.com/@shingo.sasaki) (リンク先は私が書いた記事リスト)
-
-### Qiita
-
-https://qiita.com/Sa2Knight
-
-主に個人の学びやトラブルシューティング、活動の振り返りをまとめた単発記事を投稿
 
 ## 趣味
 
