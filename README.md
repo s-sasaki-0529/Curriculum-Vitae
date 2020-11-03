@@ -2,7 +2,7 @@
 
 本オープン職務経歴書について、作成の経緯などを以下記事にまとめてあります。
 
-[話題のオープン職務経歴書を書いてみる](https://qiita.com/Sa2Knight/items/4af2f24fac9290d26119)
+[話題のオープン職務経歴書を書いてみる](https://shingo-sasaki-0529.hatenablog.com/entry/curriculum_vitae)
 
 ## 転職活動ステータス
 
