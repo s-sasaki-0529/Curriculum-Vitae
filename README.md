@@ -29,9 +29,9 @@
 
 ### ブログ
 
-- [個人ブログ](https://shingo-sasaki-0529.hatenablog.com/)
-- [Qiita](https://qiita.com/Sa2Knight)
+- [zenn.dev](https://zenn.dev/sa2knight) (現状一番アウトプットっぽいもの)
 - [所属会社の開発ブログ](https://medium.com/@shingo.sasaki) (リンク先は私が書いた記事リスト)
+- [個人ブログ](https://shingo-sasaki-0529.hatenablog.com/) (雑なメモ置き場化してる)
 
 ## 労働環境に関する主な希望
 
