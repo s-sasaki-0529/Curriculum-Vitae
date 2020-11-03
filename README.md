@@ -18,7 +18,7 @@
 |Location|東京都 墨田区|
 |Education|地方駅弁の情報系学部|
 |Mail|shingo.sasaki.0529@gmail.com|
-|Twitter|[@HousouP](https://twitter.com/s_sasaki_0529)|
+|Twitter|[@s_sasaki_0529](https://twitter.com/s_sasaki_0529)|
 
 ## アウトプット
 
