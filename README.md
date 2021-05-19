@@ -25,8 +25,8 @@
 ### 登壇資料
 
 - [TeachmeBizを支えるフロントエンドのアーキテクチャと品質担保](https://www.slideshare.net/shingosasaki3/teachmebiz-188542240) (Vue.jsアーキテクチャリング勉強会)
-- [レガシーすぎるRailsアプリを10倍高速化した組織的なカイゼン活動](https://www.slideshare.net/shingosasaki3/rails10-135067544) (表参道.rb #44 〜Ruby/Railsパフォーマンス〜)
-- [大規模 Vue アプリケーションの TypeScript 移行](https://www.slideshare.net/shingosasaki3/vue-typescript) (自社サービス開発の株式会社スタディスト × 共創パートナーの株式会社ゆめみ 合同勉強会！)
+- [レガシーすぎるRailsアプリを10倍高速化した組織的なカイゼン活動](https://www.slideshare.net/shingosasaki3/rails10-135067544) (表参道.rb #44)
+- [大規模 Vue アプリケーションの TypeScript 移行](https://www.slideshare.net/shingosasaki3/vue-typescript) (株式会社スタディスト × 株式会社ゆめみ 合同勉強会)
 
 ### ブログ
 
