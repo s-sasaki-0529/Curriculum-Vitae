@@ -15,7 +15,7 @@
 |Name|笹木 信吾|
 |Birth(Age)|1992/05/29|
 |Family|既婚・子なし|
-|Location|東京都 墨田区|
+|Location|埼玉県 川口市|
 |Education|地方駅弁の情報系学部|
 |Mail|shingo.sasaki.0529@gmail.com|
 |Twitter|[@s_sasaki_0529](https://twitter.com/s_sasaki_0529)|
