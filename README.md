@@ -20,13 +20,18 @@
 |Mail|shingo.sasaki.0529@gmail.com|
 |Twitter|[@s_sasaki_0529](https://twitter.com/s_sasaki_0529)|
 
-## 得意領域
+## キーワード
 
-- Vue / TypeScript をはじめとした Webフロントエンドの設計、実装
-- Ruby on Rails を用いた API の設計、実装
-- webpack / babel などを用いたバックエンドオブフロントエンドの整備
-- CircleCI を用いた、CI/CD の基盤作成
-- 単体テスト、E2Eテストの設計、実装、運用
+- JavaScript
+- TypeScript
+- Vue.js
+- Ruby
+- Ruby on Rails
+- Capybara
+- webpack
+- babel
+- CircleCI
+- Storybook
 
 ## アウトプット
 
