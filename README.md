@@ -13,7 +13,7 @@
 |key|value|
 |----|----|
 |Name|笹木 信吾|
-|Birth(Age)|1992/05/29(28)|
+|Birth(Age)|1992/05/29|
 |Family|既婚・子なし|
 |Location|東京都 墨田区|
 |Education|地方駅弁の情報系学部|
