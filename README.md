@@ -1,6 +1,6 @@
 # Deprecated
 
-本リポジトリの内容は[ポートフォリオサイト](https://www.shingo-sasaki.net/)で一元管理することにしました。
+本リポジトリの内容は[ポートフォリオサイト]([https://www.shingo-sasaki.net/](https://portfolio-s-sasaki-0529.vercel.app/))で一元管理することにしました。
 以降の内容は念の為残しておきますが、古くなっている場合があります。
 
 # オープン職務経歴書
